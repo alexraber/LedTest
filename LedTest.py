@@ -19,7 +19,7 @@ class LedTest(AbstractVirtualCapability):
         print("TOP")
         return {"SuccessBool": True}
 
-       def loop(self):
+    def loop(self):
         pass
 
 
